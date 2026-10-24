@@ -97,3 +97,4 @@ scripts/          download_gaia.py, make_sample_data.py
 tests/            pytest suite (cleaning, matching, classification)
 data/sample/      small synthetic dataset so the repo runs offline
 ```
+Built with AI assistance. I reviewed the code, ran the tests and can explain each module.
