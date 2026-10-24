@@ -1,0 +1,2 @@
+# Only needed to download real Gaia data (scripts/download_gaia.py)
+astroquery>=0.4.7
